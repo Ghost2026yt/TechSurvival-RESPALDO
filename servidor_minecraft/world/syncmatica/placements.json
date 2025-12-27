@@ -1,0 +1,48 @@
+{
+  "placements": [
+    {
+      "id": "d0191d65-39a9-4c98-8578-4aedde76f69b",
+      "file_name": "C:\\Users\\Santiago\\AppData\\Roaming\\ModrinthApp\\profiles\\Remarkably Optimized\\schematics\\Descargas\\26208.litematic",
+      "display_name": "Unnamed",
+      "hash": "6c0c16c2-e039-3541-b84b-51af5a229374",
+      "origin": {
+        "position": [
+          398,
+          73,
+          1398
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "5da7aa0c-21d3-402f-9273-a9a0d209ca85",
+        "name": "Kendez_"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 4435
+    },
+    {
+      "id": "89075129-8987-43f2-9d75-51ca07acc8a4",
+      "file_name": "C:\\Users\\blues\\AppData\\Roaming\\ModrinthApp\\profiles\\TechSurvival\\schematics\\Statues\\Nether Portal Statue Dragon.litematic",
+      "display_name": "GriffinNPv2-62",
+      "hash": "71a8bf49-5d32-38a5-9e8f-ea8480e66b78",
+      "origin": {
+        "position": [
+          453,
+          72,
+          1395
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "CLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "4950d1b2-5e80-48c1-b0dc-31cf45be680b",
+        "name": "MrGameBlaze"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 3955
+    }
+  ]
+}

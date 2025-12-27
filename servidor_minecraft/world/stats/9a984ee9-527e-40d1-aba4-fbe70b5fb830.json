@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:glass": 1
+    },
+    "minecraft:used": {
+      "minecraft:bow": 4
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 171487,
+      "minecraft:total_world_time": 171487,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 171487,
+      "minecraft:time_since_death": 171487,
+      "minecraft:drop": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:bow": 1,
+      "minecraft:arrow": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:arrow": 1,
+      "minecraft:bow": 1
+    }
+  },
+  "DataVersion": 4671
+}
