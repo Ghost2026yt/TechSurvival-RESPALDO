@@ -1,0 +1,26 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:minecart_one_cm": 1550,
+      "minecraft:time_since_rest": 11119,
+      "minecraft:tune_noteblock": 31,
+      "minecraft:total_world_time": 11119,
+      "minecraft:leave_game": 7,
+      "minecraft:damage_taken": 120,
+      "minecraft:sneak_time": 852,
+      "minecraft:play_time": 11119,
+      "minecraft:time_since_death": 11119,
+      "minecraft:drop": 2
+    },
+    "minecraft:used": {
+      "minecraft:netherrack": 3
+    },
+    "minecraft:picked_up": {
+      "minecraft:netherrack": 40
+    },
+    "minecraft:dropped": {
+      "minecraft:netherrack": 19
+    }
+  },
+  "DataVersion": 4671
+}

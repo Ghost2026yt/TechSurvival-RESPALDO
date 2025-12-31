@@ -1,0 +1,13 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:time_since_rest": 132,
+      "minecraft:total_world_time": 301,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 301,
+      "minecraft:time_since_death": 301
+    }
+  },
+  "DataVersion": 4671
+}

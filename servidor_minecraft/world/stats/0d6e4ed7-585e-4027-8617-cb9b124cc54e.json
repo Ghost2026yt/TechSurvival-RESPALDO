@@ -1,0 +1,40 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:iron_boots": 2,
+      "minecraft:iron_leggings": 2,
+      "minecraft:netherite_shovel": 2,
+      "minecraft:snowball": 185,
+      "minecraft:iron_helmet": 2,
+      "minecraft:iron_chestplate": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 625,
+      "minecraft:total_world_time": 1127848,
+      "minecraft:leave_game": 4,
+      "minecraft:damage_taken": 322,
+      "minecraft:play_time": 1127848,
+      "minecraft:deaths": 1,
+      "minecraft:time_since_death": 625,
+      "minecraft:drop": 3
+    },
+    "minecraft:mined": {
+      "minecraft:snow": 169
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:netherite_shovel": 2,
+      "minecraft:snowball": 16
+    },
+    "minecraft:used": {
+      "minecraft:iron_leggings": 2,
+      "minecraft:iron_helmet": 2,
+      "minecraft:iron_chestplate": 2,
+      "minecraft:netherite_shovel": 169,
+      "minecraft:iron_boots": 2
+    }
+  },
+  "DataVersion": 4671
+}
